@@ -12,8 +12,8 @@ sdl2
 <h3>Build</h3>
 
 
-git clone this repo   
-run make   
+git clone https://github.com/snells/chip8emu   
+make   
 ./chip8 filename
 
 
